@@ -1,0 +1,69 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url("https://store.streamspell.com/cdn/shop/products/STREAMSPELL_300x300.gif?v=1668175485");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #f5f4f4;
+}
+
+.container {
+  text-align: center;
+  background-color: rgb(207, 178, 178);
+  padding: 50px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  width: 300px;
+}
+#main {
+  text-align: center;
+}
+label {
+  font-size: 40px;
+  font-weight: 600;
+  color: #f4230b;
+}
+#age {
+  font-size: 30px;
+  width: 80px;
+  background-color: aqua;
+}
+checkbox{
+    width: 30px;
+}
+#bottom {
+  margin-top: 20px;
+  margin-bottom: 30px;
+
+}
+
+h1 {
+  color: aqua;
+  font-size: 50px;
+  position: absolute;
+  top: 30px;
+}
+button {
+  font-size: 30px;
+  background-color: aqua;
+}
+#result {
+  font-size: 50px;
+  color: #c6eb21;
+  font-weight: bold;
+  position: absolute;
+  bottom: 1%;
+}
+
+.discount {
+  color: #14075b;
+}
+
+.no-discount {
+  color: #e61d07;
+}
